@@ -1,0 +1,51 @@
+[13-Apr-2024 11:48:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Product_Variable::get_post() in C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-content\themes\byvex-woocommerce-starter\front-page.php:17
+Stack trace:
+#0 C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Lenovo...')
+#2 C:\Users\Lenovo\Local Sites\woocommerce\app\public\index.php(17): require('C:\\Users\\Lenovo...')
+#3 {main}
+  thrown in C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-content\themes\byvex-woocommerce-starter\front-page.php on line 17
+[13-Apr-2024 11:49:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Product_Simple::get_post() in C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-content\themes\byvex-woocommerce-starter\front-page.php:22
+Stack trace:
+#0 C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Lenovo...')
+#2 C:\Users\Lenovo\Local Sites\woocommerce\app\public\index.php(17): require('C:\\Users\\Lenovo...')
+#3 {main}
+  thrown in C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-content\themes\byvex-woocommerce-starter\front-page.php on line 22
+[13-Apr-2024 11:58:17 UTC] PHP Warning:  Undefined variable $product in C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-content\themes\byvex-woocommerce-starter\front-page.php on line 14
+[13-Apr-2024 11:58:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_name() on null in C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-content\themes\byvex-woocommerce-starter\front-page.php:14
+Stack trace:
+#0 C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Lenovo...')
+#2 C:\Users\Lenovo\Local Sites\woocommerce\app\public\index.php(17): require('C:\\Users\\Lenovo...')
+#3 {main}
+  thrown in C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-content\themes\byvex-woocommerce-starter\front-page.php on line 14
+[13-Apr-2024 12:27:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Product_Variable::get_default_variation() in C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-content\themes\byvex-woocommerce-starter\front-page.php:26
+Stack trace:
+#0 C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Lenovo...')
+#2 C:\Users\Lenovo\Local Sites\woocommerce\app\public\index.php(17): require('C:\\Users\\Lenovo...')
+#3 {main}
+  thrown in C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-content\themes\byvex-woocommerce-starter\front-page.php on line 26
+[13-Apr-2024 12:28:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wc_get_product_variation() in C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-content\themes\byvex-woocommerce-starter\front-page.php:29
+Stack trace:
+#0 C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Lenovo...')
+#2 C:\Users\Lenovo\Local Sites\woocommerce\app\public\index.php(17): require('C:\\Users\\Lenovo...')
+#3 {main}
+  thrown in C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-content\themes\byvex-woocommerce-starter\front-page.php on line 29
+[13-Apr-2024 12:28:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Product_Variable::get_default_variation() in C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-content\themes\byvex-woocommerce-starter\front-page.php:26
+Stack trace:
+#0 C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Lenovo...')
+#2 C:\Users\Lenovo\Local Sites\woocommerce\app\public\index.php(17): require('C:\\Users\\Lenovo...')
+#3 {main}
+  thrown in C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-content\themes\byvex-woocommerce-starter\front-page.php on line 26
+[13-Apr-2024 12:28:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Product_Variable::get_default_variation() in C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-content\themes\byvex-woocommerce-starter\front-page.php:26
+Stack trace:
+#0 C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Lenovo...')
+#2 C:\Users\Lenovo\Local Sites\woocommerce\app\public\index.php(17): require('C:\\Users\\Lenovo...')
+#3 {main}
+  thrown in C:\Users\Lenovo\Local Sites\woocommerce\app\public\wp-content\themes\byvex-woocommerce-starter\front-page.php on line 26
+[13-Apr-2024 12:29:26 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
